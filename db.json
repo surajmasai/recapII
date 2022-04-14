@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "name": "suraj",
+      "age": "25",
+      "dob": "12/03/1999",
+      "stateofres": "Bihar",
+      "address": "Anaith",
+      "pincode": "802302",
+      "id": 1
+    },
+    {
+      "name": "ddepak",
+      "age": "26",
+      "dob": "12/05/1996",
+      "stateofres": "BIHAR",
+      "address": "Vill-DIHARI , P.O - BALIGAON , P.S - AYER",
+      "pincode": "802203",
+      "id": 2
+    },
+    {
+      "name": "albert",
+      "age": "30",
+      "dob": "18/07/1990",
+      "stateofres": "karnataka",
+      "address": "Banglore",
+      "pincode": "802802",
+      "id": 3
+    },
+    {
+      "name": "albert",
+      "age": "30",
+      "dob": "18/07/1990",
+      "stateofres": "karnataka",
+      "address": "Banglore",
+      "pincode": "802802",
+      "id": 4
+    },
+    {
+      "name": "albert",
+      "age": "30",
+      "dob": "18/07/1990",
+      "stateofres": "karnataka",
+      "address": "Banglore",
+      "pincode": "802802",
+      "id": 5
+    },
+    {
+      "name": "albert",
+      "age": "30",
+      "dob": "18/07/1990",
+      "stateofres": "karnataka",
+      "address": "Banglore",
+      "pincode": "802802",
+      "id": 6
+    },
+    {
+      "name": "albert",
+      "age": "30",
+      "dob": "18/07/1990",
+      "stateofres": "karnataka",
+      "address": "Banglore",
+      "pincode": "802802",
+      "id": 7
+    }
+  ]
+}
